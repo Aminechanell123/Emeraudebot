@@ -1,0 +1,2 @@
+# Emeraudebot
+Normal
